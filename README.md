@@ -23,12 +23,11 @@ Análise dos dados do e-commerce Olist para um relatório voltado a investidores
 
 ## O que tem neste repositório
 
-```
-├── tech_challenge_olist.ipynb   # notebook com toda a análise (código, gráficos e conclusões)
-├── figuras/                     # gráficos gerados pelo notebook
-├── requirements.txt             # bibliotecas usadas
+├── techchallengeolistfase1.ipynb                       # notebook com toda a análise
+├── Olist onde investir para continuar crescendo.pptx   # apresentação executiva
+├── figuras/                                            # gráficos gerados pelo notebook
+├── requirements.txt                                    # bibliotecas usadas
 └── README.md
-```
 
 ## Como rodar
 
